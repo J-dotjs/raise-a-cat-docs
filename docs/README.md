@@ -6,7 +6,13 @@ description: Detailed documentation of all commands
 
 ## Main Usage
 
-### \`\`\`cat\`\`\`
+{% code fullWidth="false" %}
+```javascript
+/cat
+```
+{% endcode %}
+
+
 
 
 
