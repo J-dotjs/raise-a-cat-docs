@@ -6,7 +6,7 @@ description: Detailed documentation of all commands
 
 ## Main Usage
 
-### cat
+### \`\`\`cat\`\`\`
 
 
 
