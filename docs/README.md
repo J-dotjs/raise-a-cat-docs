@@ -6,14 +6,6 @@ description: Detailed documentation of all commands
 
 ## Main Usage
 
-{% code fullWidth="false" %}
-```javascript
-/cat
-```
-{% endcode %}
-
-
-
-
+### `/cat`
 
 ## Customization
