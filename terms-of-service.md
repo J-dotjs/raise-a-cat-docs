@@ -1,7 +1,8 @@
 ---
 description: >-
-  Last updated: October 04, 2023 Please read these terms and conditions
-  carefully before using Our Service.
+  Last updated: October 04,
+  2023                                                                       
+  Please read these terms and conditions carefully before using Our Service.
 ---
 
 # Terms of Service
