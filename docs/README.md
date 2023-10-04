@@ -8,4 +8,6 @@ description: Detailed documentation of all commands
 
 ### `/cat`
 
+*info about command here*
+
 ## Customization
