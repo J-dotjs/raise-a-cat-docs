@@ -1,4 +1,4 @@
-# Terms and Conditions
+# Terms of Service
 
 Last updated: October 04, 2023
 
@@ -41,9 +41,19 @@ Your access to and use of the Bot is conditioned on Your acceptance of and compl
 By accessing or using the Bot You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Bot.
 
 
+# Bot Functionality 
 
+Our Bot provides certain features and services within Discord servers, as described in the documentation and announcements provided. We strive to ensure the Bot's accuracy and functionality, but we do not guarantee error-free or uninterrupted operation.
 
+# User Conduct
 
+You agree to use the Bot in compliance with all Discord terms of service, community guidelines, and applicable laws and regulations. Prohibited activities include, but are not limited to:
+
+- Violating Discord's terms of service or guidelines
+- Using the Bot for malicious, abusive, or illegal purposes.
+- Attempting to exploit or gain unauthorized access to the Bot's functionalities.
+- Impersonating the Bot's developers or representatives.
+- Disrupting the normal operation of Discord servers.
 
 
 
