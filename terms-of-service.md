@@ -67,7 +67,8 @@ You agree to use the Bot in compliance with all Discord terms of service, commun
 
 
 
-
+# Disclaimers
+The Bot is provided on an "as-is" and "as available" basis. We make no warranties or representations regarding the accuracy, completeness, or reliability of the Bot. Your use of the Bot is at your own risk.
 
 
 # Termination
